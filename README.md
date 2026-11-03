@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusConnect 🎓 (MERN Stack Edition)
 
 **CampusConnect** has been migrated and configured to a full **MERN Stack** (MongoDB, Express.js, React, Node.js) platform with Tailwind CSS, TypeScript, and Mongoose schemas.
@@ -75,3 +76,7 @@ Open **`http://127.0.0.1:5173/`** in your browser. The top header banner lets yo
 3. **Alumni / Working Pro (`Rohan Mehta`)**: Review student portfolios, mentor juniors, and answer technical doubts.
 4. **Pending Applicant (`Neha Patel`)**: Experience the gated **Pending Approval Screen**.
 5. **Register New**: Complete a phone registration + demo OTP (`123456`) + profile setup to test the full lifecycle into the admin queue.
+=======
+# Campus-Connect
+CampusConnect is a private, university-exclusive social and professional networking platform combining academic collaboration, peer study resources, hackathon teammate matching, and alumni mentorship under a secure, admin-verified ecosystem.
+>>>>>>> 84e831142a70fc9e4754dba0599c039ad7b867a0
